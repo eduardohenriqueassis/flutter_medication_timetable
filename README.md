@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com]
+For questions or support, please contact [eduardohenriqueassis1973@gmail.com]
 
 ## Acknowledgments
 
